@@ -25,7 +25,7 @@ Database: Firebase
 # How to use
 Clone the repository:
 
-git clone https://github.com/yourusername/Amazon-Clone.git
+git clone https://github.com/Muskangoyal07/Amazon-Clone.git
 
 Navigate to the project directory:
 
