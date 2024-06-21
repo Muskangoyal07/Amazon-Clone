@@ -2,7 +2,7 @@
 # Project Description
 Amazon-Clone is a comprehensive e-commerce web application designed to mimic the core functionalities of Amazon. This project focuses on front-end development and incorporates essential e-commerce features such as user authentication, product listing, shopping cart, and checkout processes. It serves as an educational project to demonstrate practical skills in web development using modern technologies.
 
-#Features
+# Features
 
 User Authentication: Secure user registration and login system.
 
