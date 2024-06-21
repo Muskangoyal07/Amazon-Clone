@@ -27,26 +27,4 @@ Clone the repository:
 
 git clone https://github.com/Muskangoyal07/Amazon-Clone.git
 
-Navigate to the project directory:
 
-cd Amazon-Clone
-
-Install the front-end dependencies:
-
-cd client
-npm install
-
-Install the back-end dependencies:
-
-cd ../server
-npm install
-
-Start the front-end server:
-
-cd ../client
-npm start
-
-Start the back-end server:
-
-cd ../server
-npm start
